@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification Using Logistic Regression
+# 🌸 Iris Dataset Flower Classification Using Logistic Regression
 
 This project implements a **Logistic Regression** model to classify Iris flower species based on their morphological features. The dataset used is the classic [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris), which contains 150 samples across three species: *Setosa*, *Versicolor*, and *Virginica*.
 
