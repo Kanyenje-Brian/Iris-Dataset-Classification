@@ -69,8 +69,3 @@ The logistic regression model demonstrated high accuracy and strong classificati
 
 ---
 
-## 📎 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/iris-logreg.git
